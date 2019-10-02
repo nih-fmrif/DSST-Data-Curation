@@ -1,0 +1,15 @@
+DATASET, SIZE, AGE, COMMENT
+Human Connectome Project (HCP),1500,22-35,3 hrs;high res;twins &siblings
+Open fMRI,>3000,Varies,Many different studies/sites
+Functional Connectomes Project (FCON 1000),>1500,19-80,Collected across 33 different sites
+Southwest U. Longitudinal Imaging Multimodal (SLIM),>1000,18-22,Longitudinal;rich behavioral
+Consortium for Reliability and Reproducabilty (CoRR),>1000,5-77,focus reliability and reproducibility
+Southwest University Adult Lifespan Dataset (SALD),>400,19-80,Wide age range;multimodal
+Child Mind Inst. Healthy Brain Network (CMI HBN),>700,5-21,Rich phenotyping
+Healthy Brain Network Serial Scanning Initiative (HBN-SSI),13,21-42,Repeat scan conditions across 12 sessions
+Autism Brain Imaging Data Exchange (ABIDE),>2000, 7-21,Approximately 50% individuals with ASD
+ADHD-200,>700,7-26,Approximately 36% individuals with ADHD
+UK Biobank,< 35000,40-69,Eventually 100000 subjects with genetics
+NIMH/NHGRI Data Sharing Project,>400,5-77,Collected at on NIH Campus (Phil Shaw)
+Adolescent Brain Cognitive Development (ABCD),>10000,9-10,rich phenotyping;multisite
+Mother of all Unification Studies (MOUS),204,18-33,language processing and rest: MEG;fMRI; DWI
